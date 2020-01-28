@@ -1,0 +1,34 @@
+*{
+    transition: all 2s;
+}
+
+body{
+    background: #4db4d6;
+    height: 2000px;
+}
+
+b {
+    color: #673ab7;
+text-shadow: 2px 8px #ff0000;
+font-size: 167px;
+
+
+}
+
+i{
+    color: purple;
+}
+
+div{
+    position: fixed;
+    bottom: 0;
+    color: green;
+    font-weight:bold;
+    font-size: 20px;
+    text-decoration: underline;
+    letter-spacing: 5px;
+    margin: 10px;
+    border: 10px dashed pink;
+    padding: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
